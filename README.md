@@ -1,7 +1,7 @@
 # Todo List Application 📝
 
-[![React](https://img.shields.io/badge/React-18.3.0-blue.svg)](https://react.dev/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple.svg)](https://getbootstrap.com/)
+[![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://react.dev/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.6-purple.svg)](https://getbootstrap.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A feature-rich Todo List web application built with React and Bootstrap, featuring persistent local storage and responsive design.
